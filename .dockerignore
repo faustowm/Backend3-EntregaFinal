@@ -1,0 +1,7 @@
+.env
+node_modules
+/test
+code_project.txt
+generateCodeSnapshot.js
+generateTree.js
+project_snapshot.txt
